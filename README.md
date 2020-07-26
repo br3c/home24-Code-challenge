@@ -1,6 +1,7 @@
 # home24-Coding-Challenge
 
-## Task
+Task
+----
 
 Write a program/script which draws a christmas tree (as ASCII-Art).
 The program/script should take two values as input:
