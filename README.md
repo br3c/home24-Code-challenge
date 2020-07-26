@@ -1,3 +1,3 @@
-# home24-Code-Challenge
+# home24-Coding-Challenge
 
 Apprenticeship coding challenge
