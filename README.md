@@ -26,6 +26,6 @@ print a tree with a chosen height (e.g.: 5) but without a star on top of it:
 
     python3 ascii_tree.py --height 5
 
-print a tree with a chosen height with a star on top of it:
+print a tree with a chosen height and a star on top of it:
 
     python3 ascii_tree.py --height 5 --star
