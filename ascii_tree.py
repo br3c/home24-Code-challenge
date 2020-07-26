@@ -31,7 +31,8 @@ for i in range(int(height)): #print the tree
     print(leaf.center(width))
     j += 2
 
-print('I'.center(width)) #print the tribe
+t = int(width / 3)
+print(('I'*t).center(width)) #print the tribe
 
 
     
