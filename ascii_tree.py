@@ -31,8 +31,7 @@ for i in range(int(height)): #print the tree
     print(leaf.center(offset))
     j += 2
 
-t = int(offset / 3)
-print(('I'*t).center(offset)) #print the tribe
+print('I'.center(offset)) #print the tribe
 
 
     
