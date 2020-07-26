@@ -14,24 +14,24 @@ args = parser.parse_args() #create object to get the args from parser object
 star_bool = args.star #get the value of star argument
 height = args.height #get the value of height argument
         
-def calculate_width(value):
+def calculate_width(value): #calculate the widest layer of the tree 
     offset = 1
     for i in range(1, int(value)):
         offset += 2
     return offset
 
-width = calculate_width(height)
+width = calculate_width(height) #for alignmet
 
-if star_bool:
+if star_bool: #print the star if star argument was passed
     print('*'.center(width))
 
 j = 1
-for i in range(int(height)):
+for i in range(int(height)): #print the tree
     leaf = 'X' * j
     print(leaf.center(width))
     j += 2
 
-print('I'.center(width))
+print('I'.center(width)) #print the tribe
 
 
     
