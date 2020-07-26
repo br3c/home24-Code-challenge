@@ -20,7 +20,7 @@ def calculate_width(value): #calculate the widest layer of the tree
         offset += 2
     return offset
 
-width = calculate_width(height) #for alignmet
+width = calculate_width(height) #for alignment
 
 if star_bool: #print the star if star argument was passed
     print('*'.center(width))
