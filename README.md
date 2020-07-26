@@ -24,8 +24,8 @@ show the help message:
 
     python3 ascii_tree.py -h
 
-    or
-    
+or
+
     python3 ascii_tree.py --help
 
 print a tree with a chosen height (e.g.: 5) but without a star on top of it:
