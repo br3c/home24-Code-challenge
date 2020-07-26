@@ -16,6 +16,16 @@ Visit: https://wiki.python.org/moin/BeginnersGuide/Download for installation ins
 
 After you successfully installed Python3 on your computer, you should be able to run the program as follows:
 
+Open a terminal in the project directory.
+
 show the help message:
 
     python3 ascii_tree.py -h
+
+print a tree with a chosen height (e.g.: 5) but without a star on top of it:
+
+    python3 ascii_tree.py --height 5
+
+print a tree with a chosen height with a star on top of it:
+
+    python3 ascii_tree.py --height 5 --star
