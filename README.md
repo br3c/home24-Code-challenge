@@ -17,4 +17,5 @@ Visit: https://wiki.python.org/moin/BeginnersGuide/Download for installation ins
 After you successfully installed Python3 on your computer, you should be able to run the program as follows:
 
 show the help message:
+
     python3 ascii_tree.py -h
