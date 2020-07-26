@@ -17,7 +17,9 @@ Visit: https://wiki.python.org/moin/BeginnersGuide/Download for installation ins
 After you successfully installed Python3 on your computer, you should be able to run the program as follows:
 
 -Click the green "Code" button and download the ZIP file.
+
 -Extract the contents of the ZIP file.
+
 -Open a terminal in the project directory.
 
 show the help message:
