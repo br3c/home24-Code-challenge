@@ -10,6 +10,13 @@ The program/script should take two values as input:
 
 ## How to run the code
 
-First, you will need Python3 on your computer
+First, you will need Python3 on your computer.
 
-visit: https://wiki.python.org/moin/BeginnersGuide/Download for installation instructions
+Visit: https://wiki.python.org/moin/BeginnersGuide/Download for installation instructions.
+
+After you successfully installed Python3 on your computer, you should be able to run the program as follows:
+
+show the help message:
+
+    python3 ascii_tree.py -h
+    
