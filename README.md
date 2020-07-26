@@ -23,6 +23,8 @@ After you successfully installed Python3 on your computer, you should be able to
 show the help message:
 
     python3 ascii_tree.py -h
+    or
+    python3 ascii_tree.py --help
 
 print a tree with a chosen height (e.g.: 5) but without a star on top of it:
 
